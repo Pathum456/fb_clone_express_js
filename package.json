@@ -1,0 +1,16 @@
+{
+  "name": "fb_clone_express_js",
+  "version": "1.0.0",
+  "description": "This implements with express js and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm app.js",
+    "nodemon": "node app.js"
+  },
+  "author": "kaleesha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
